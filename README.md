@@ -1,3 +1,4 @@
 # Contribute.Rocket.Chat
 
-Testing CLA Assistant
+Test CLA Assistant
+
